@@ -1,0 +1,16 @@
+C:\Users\Christopher Durham\source\repos\OasisApplication_v1.0\OasisApplication_v1.0\bin\Debug\OasisApplication_v1.0.exe.config
+C:\Users\Christopher Durham\source\repos\OasisApplication_v1.0\OasisApplication_v1.0\bin\Debug\OasisApplication_v1.0.exe
+C:\Users\Christopher Durham\source\repos\OasisApplication_v1.0\OasisApplication_v1.0\bin\Debug\OasisApplication_v1.0.pdb
+C:\Users\Christopher Durham\source\repos\OasisApplication_v1.0\OasisApplication_v1.0\obj\Debug\OasisApplication_v1.0.csprojAssemblyReference.cache
+C:\Users\Christopher Durham\source\repos\OasisApplication_v1.0\OasisApplication_v1.0\obj\Debug\OasisApplication_v1._0.Properties.Resources.resources
+C:\Users\Christopher Durham\source\repos\OasisApplication_v1.0\OasisApplication_v1.0\obj\Debug\OasisApplication_v1.0.csproj.GenerateResource.cache
+C:\Users\Christopher Durham\source\repos\OasisApplication_v1.0\OasisApplication_v1.0\obj\Debug\OasisApplication_v1.0.csproj.CoreCompileInputs.cache
+C:\Users\Christopher Durham\source\repos\OasisApplication_v1.0\OasisApplication_v1.0\obj\Debug\OasisApplication_v1.0.exe
+C:\Users\Christopher Durham\source\repos\OasisApplication_v1.0\OasisApplication_v1.0\obj\Debug\OasisApplication_v1.0.pdb
+C:\Users\Christopher Durham\source\repos\OasisApplication_v1.0\OasisApplication_v1.0\obj\Debug\OasisApplication_v1._0.OasisDashboard.resources
+C:\Users\Christopher Durham\source\repos\OasisApplication_v1.0\OasisApplication_v1.0\obj\Debug\OasisApplication_v1._0.NewClient.resources
+C:\Users\Christopher Durham\source\repos\OasisApplication_v1.0\OasisApplication_v1.0\obj\Debug\OasisApplication_v1._0.Reports.resources
+C:\Users\Christopher Durham\source\repos\OasisApplication_v1.0\OasisApplication_v1.0\obj\Debug\OasisApplication_v1._0.Services.resources
+C:\Users\Christopher Durham\source\repos\OasisApplication_v1.0\OasisApplication_v1.0\obj\Debug\OasisApplication_v1._0.ClientInformation.resources
+C:\Users\Christopher Durham\source\repos\OasisApplication_v1.0\OasisApplication_v1.0\obj\Debug\OasisApplication_v1._0.NeedsAssessment.resources
+C:\Users\Christopher Durham\source\repos\OasisApplication_v1.0\OasisApplication_v1.0\obj\Debug\OasisApplication_v1._0.SwipeScreen.resources
